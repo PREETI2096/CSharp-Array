@@ -1,0 +1,15 @@
+D:\Arrays\SumOfArray\SumOfArray\bin\Debug\net6.0\SumOfArray.exe
+D:\Arrays\SumOfArray\SumOfArray\bin\Debug\net6.0\SumOfArray.deps.json
+D:\Arrays\SumOfArray\SumOfArray\bin\Debug\net6.0\SumOfArray.runtimeconfig.json
+D:\Arrays\SumOfArray\SumOfArray\bin\Debug\net6.0\SumOfArray.dll
+D:\Arrays\SumOfArray\SumOfArray\bin\Debug\net6.0\SumOfArray.pdb
+D:\Arrays\SumOfArray\SumOfArray\obj\Debug\net6.0\SumOfArray.csproj.AssemblyReference.cache
+D:\Arrays\SumOfArray\SumOfArray\obj\Debug\net6.0\SumOfArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arrays\SumOfArray\SumOfArray\obj\Debug\net6.0\SumOfArray.AssemblyInfoInputs.cache
+D:\Arrays\SumOfArray\SumOfArray\obj\Debug\net6.0\SumOfArray.AssemblyInfo.cs
+D:\Arrays\SumOfArray\SumOfArray\obj\Debug\net6.0\SumOfArray.csproj.CoreCompileInputs.cache
+D:\Arrays\SumOfArray\SumOfArray\obj\Debug\net6.0\SumOfArray.dll
+D:\Arrays\SumOfArray\SumOfArray\obj\Debug\net6.0\refint\SumOfArray.dll
+D:\Arrays\SumOfArray\SumOfArray\obj\Debug\net6.0\SumOfArray.pdb
+D:\Arrays\SumOfArray\SumOfArray\obj\Debug\net6.0\SumOfArray.genruntimeconfig.cache
+D:\Arrays\SumOfArray\SumOfArray\obj\Debug\net6.0\ref\SumOfArray.dll

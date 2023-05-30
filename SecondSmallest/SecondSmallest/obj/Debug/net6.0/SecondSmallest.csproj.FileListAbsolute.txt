@@ -1,0 +1,15 @@
+D:\Arrays\SecondSmallest\SecondSmallest\bin\Debug\net6.0\SecondSmallest.exe
+D:\Arrays\SecondSmallest\SecondSmallest\bin\Debug\net6.0\SecondSmallest.deps.json
+D:\Arrays\SecondSmallest\SecondSmallest\bin\Debug\net6.0\SecondSmallest.runtimeconfig.json
+D:\Arrays\SecondSmallest\SecondSmallest\bin\Debug\net6.0\SecondSmallest.dll
+D:\Arrays\SecondSmallest\SecondSmallest\bin\Debug\net6.0\SecondSmallest.pdb
+D:\Arrays\SecondSmallest\SecondSmallest\obj\Debug\net6.0\SecondSmallest.csproj.AssemblyReference.cache
+D:\Arrays\SecondSmallest\SecondSmallest\obj\Debug\net6.0\SecondSmallest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arrays\SecondSmallest\SecondSmallest\obj\Debug\net6.0\SecondSmallest.AssemblyInfoInputs.cache
+D:\Arrays\SecondSmallest\SecondSmallest\obj\Debug\net6.0\SecondSmallest.AssemblyInfo.cs
+D:\Arrays\SecondSmallest\SecondSmallest\obj\Debug\net6.0\SecondSmallest.csproj.CoreCompileInputs.cache
+D:\Arrays\SecondSmallest\SecondSmallest\obj\Debug\net6.0\SecondSmallest.dll
+D:\Arrays\SecondSmallest\SecondSmallest\obj\Debug\net6.0\refint\SecondSmallest.dll
+D:\Arrays\SecondSmallest\SecondSmallest\obj\Debug\net6.0\SecondSmallest.pdb
+D:\Arrays\SecondSmallest\SecondSmallest\obj\Debug\net6.0\SecondSmallest.genruntimeconfig.cache
+D:\Arrays\SecondSmallest\SecondSmallest\obj\Debug\net6.0\ref\SecondSmallest.dll

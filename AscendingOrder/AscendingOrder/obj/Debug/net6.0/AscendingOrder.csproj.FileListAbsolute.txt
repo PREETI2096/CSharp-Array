@@ -1,0 +1,15 @@
+D:\Arrays\AscendingOrder\AscendingOrder\bin\Debug\net6.0\AscendingOrder.exe
+D:\Arrays\AscendingOrder\AscendingOrder\bin\Debug\net6.0\AscendingOrder.deps.json
+D:\Arrays\AscendingOrder\AscendingOrder\bin\Debug\net6.0\AscendingOrder.runtimeconfig.json
+D:\Arrays\AscendingOrder\AscendingOrder\bin\Debug\net6.0\AscendingOrder.dll
+D:\Arrays\AscendingOrder\AscendingOrder\bin\Debug\net6.0\AscendingOrder.pdb
+D:\Arrays\AscendingOrder\AscendingOrder\obj\Debug\net6.0\AscendingOrder.csproj.AssemblyReference.cache
+D:\Arrays\AscendingOrder\AscendingOrder\obj\Debug\net6.0\AscendingOrder.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arrays\AscendingOrder\AscendingOrder\obj\Debug\net6.0\AscendingOrder.AssemblyInfoInputs.cache
+D:\Arrays\AscendingOrder\AscendingOrder\obj\Debug\net6.0\AscendingOrder.AssemblyInfo.cs
+D:\Arrays\AscendingOrder\AscendingOrder\obj\Debug\net6.0\AscendingOrder.csproj.CoreCompileInputs.cache
+D:\Arrays\AscendingOrder\AscendingOrder\obj\Debug\net6.0\AscendingOrder.dll
+D:\Arrays\AscendingOrder\AscendingOrder\obj\Debug\net6.0\refint\AscendingOrder.dll
+D:\Arrays\AscendingOrder\AscendingOrder\obj\Debug\net6.0\AscendingOrder.pdb
+D:\Arrays\AscendingOrder\AscendingOrder\obj\Debug\net6.0\AscendingOrder.genruntimeconfig.cache
+D:\Arrays\AscendingOrder\AscendingOrder\obj\Debug\net6.0\ref\AscendingOrder.dll

@@ -1,0 +1,15 @@
+D:\Arrays\SecondLargest\SecondLargest\bin\Debug\net6.0\SecondLargest.exe
+D:\Arrays\SecondLargest\SecondLargest\bin\Debug\net6.0\SecondLargest.deps.json
+D:\Arrays\SecondLargest\SecondLargest\bin\Debug\net6.0\SecondLargest.runtimeconfig.json
+D:\Arrays\SecondLargest\SecondLargest\bin\Debug\net6.0\SecondLargest.dll
+D:\Arrays\SecondLargest\SecondLargest\bin\Debug\net6.0\SecondLargest.pdb
+D:\Arrays\SecondLargest\SecondLargest\obj\Debug\net6.0\SecondLargest.csproj.AssemblyReference.cache
+D:\Arrays\SecondLargest\SecondLargest\obj\Debug\net6.0\SecondLargest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arrays\SecondLargest\SecondLargest\obj\Debug\net6.0\SecondLargest.AssemblyInfoInputs.cache
+D:\Arrays\SecondLargest\SecondLargest\obj\Debug\net6.0\SecondLargest.AssemblyInfo.cs
+D:\Arrays\SecondLargest\SecondLargest\obj\Debug\net6.0\SecondLargest.csproj.CoreCompileInputs.cache
+D:\Arrays\SecondLargest\SecondLargest\obj\Debug\net6.0\SecondLargest.dll
+D:\Arrays\SecondLargest\SecondLargest\obj\Debug\net6.0\refint\SecondLargest.dll
+D:\Arrays\SecondLargest\SecondLargest\obj\Debug\net6.0\SecondLargest.pdb
+D:\Arrays\SecondLargest\SecondLargest\obj\Debug\net6.0\SecondLargest.genruntimeconfig.cache
+D:\Arrays\SecondLargest\SecondLargest\obj\Debug\net6.0\ref\SecondLargest.dll
